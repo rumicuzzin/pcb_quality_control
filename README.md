@@ -2,7 +2,7 @@
 
 Code Description
 
-The mian.c file consists of functions that are defined across many modules. All files are compiled into an executable, pcb_check.
+The main.c file consists of functions that are defined across many modules. All files are compiled into an executable, pcb_check.
 
 The program is based upon the interpretation of files, which are of binary and bmp format. The file names are passed through via the command line. Holistaclly, the task requires the program to extract specific bits from these files and print out the data found in an orderly fashion. 
 
